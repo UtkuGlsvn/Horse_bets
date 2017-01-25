@@ -1,0 +1,27 @@
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\bin\Debug\uygulama7.exe.config
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\bin\Debug\uygulama7.exe
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\bin\Debug\uygulama7.pdb
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\obj\Debug\uygulama7.csprojResolveAssemblyReference.cache
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\obj\Debug\uygulama7.Form1.resources
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\obj\Debug\uygulama7.Properties.Resources.resources
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\obj\Debug\uygulama7.csproj.GenerateResource.Cache
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\obj\Debug\uygulama7.exe
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\uygulama7\uygulama7\obj\Debug\uygulama7.pdb
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\bin\Debug\uygulama7.exe.config
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\obj\Debug\uygulama7.exe
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\obj\Debug\uygulama7.pdb
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\bin\Debug\uygulama7.exe
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\bin\Debug\uygulama7.pdb
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\obj\Debug\uygulama7.csprojResolveAssemblyReference.cache
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\obj\Debug\uygulama7.Form1.resources
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\obj\Debug\uygulama7.Properties.Resources.resources
+C:\Users\Glsvn\Desktop\Utku\Visual Studio\Genel Örnkler-1(basit seviye)\uygulama7\uygulama7\obj\Debug\uygulama7.csproj.GenerateResource.Cache
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\bin\Debug\uygulama7.exe.config
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\obj\Debug\uygulama7.exe
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\obj\Debug\uygulama7.pdb
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\bin\Debug\uygulama7.exe
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\bin\Debug\uygulama7.pdb
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\obj\Debug\uygulama7.csprojResolveAssemblyReference.cache
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\obj\Debug\uygulama7.Form1.resources
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\obj\Debug\uygulama7.Properties.Resources.resources
+C:\Users\Glsvn\Desktop\github yüklenecek\uygulama7\uygulama7\obj\Debug\uygulama7.csproj.GenerateResource.Cache
