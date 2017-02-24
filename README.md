@@ -3,4 +3,4 @@ Merhaba,C# basit düzeyde bir at yarışı oyunu yaptım ve bu oyunu sizle kodla
 
 
 Hi guys.I use c#.I created basic horse race.There mistakes and omissions
-+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+[Setup](https://github.com/utkuglsvn/BASIC_HORCE_RACE/blob/master/Setup_Horcerace.msi) - The web framework used
