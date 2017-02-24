@@ -101,9 +101,8 @@ namespace uygulama7
 
 
             string a = textBox1.Text;
-            int bahis1 = 0;
-            int bahis2 = 0;
-
+         int bahis1 = Convert.ToInt32(label10.Text);
+            int bahis2 = Convert.ToInt32(textBox1.Text);
 
             if (textBox1.Text == "0")
             {
@@ -111,14 +110,11 @@ namespace uygulama7
             }
             else
             {
-                MessageBox.Show("Your bet is played: " + textBox1.Text + "$" + "\n" + "Wallet: " + label10.Text + "$");
-                SoundPlayer vol = new SoundPlayer("at.wav");
-                vol.Play();
-
-                bahis1 = Convert.ToInt32(label10.Text);
-                bahis2 = Convert.ToInt32(textBox1.Text);
+               
+             
                 if (bahis2 <= bahis1)
                 {
+                 MessageBox.Show("Your bet is played: " + textBox1.Text + "$" + "\n" + "Wallet: " + label10.Text + "$");
                     timer1.Start();
                     groupBox1.Visible = false;
 
@@ -126,11 +122,13 @@ namespace uygulama7
 
                     bahis1 = bahis1 - bahis2;
                     label10.Text = bahis1.ToString();
-        
+           SoundPlayer vol = new SoundPlayer("at.wav");
+                vol.Play();
                 }
                 else
                 {
-                    MessageBox.Show("Yetersiz Bakiye");
+                   MessageBox.Show("Inadequate  wallet");
+                   
                 }
 
             }
