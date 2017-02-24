@@ -9,4 +9,4 @@ Hi guys.I use c#.I created basic horse race.There mistakes and omissions
 [Setup](https://github.com/utkuglsvn/BASIC_HORCE_RACE/blob/master/Setup_Horcerace.msi)
 
 
-gift dowland adress:http://www.iconarchive.com/tag/horse-racing
+icon dowland adress:http://www.iconarchive.com/tag/horse-racing
