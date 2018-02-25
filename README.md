@@ -1,8 +1,7 @@
-# BASIC_HORCE_RACE
-Merhaba,C# basit düzeyde bir at yarışı oyunu yaptım ve bu oyunu sizle kodları paylaşmak istedim.Hataları veya eksikleri olabilir.
+# Horse_bets
+Merhaba,C# form tabanlı 3 atın yarıştığı ve yarışmadan önce onlara bahis oynayabileceğiniz basit bir at yarışı oyunu.
 
-
-Hi guys.I use c#.I created basic horse race.There mistakes and omissions
+Hello, C # is a simple horse racing game
 
 
 
