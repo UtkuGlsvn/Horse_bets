@@ -134,10 +134,7 @@ namespace uygulama7
             }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
 
-        }
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
